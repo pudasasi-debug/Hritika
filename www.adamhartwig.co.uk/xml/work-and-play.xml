@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <work>
+    <project>
+      <title>Hyatt Global — Cross-Cloud DR &amp; HA</title>
+      <excerpt>Sub-10 minute RTO across AWS and Azure cloud regions.</excerpt>
+      <url>/work-and-play/pa-consulting-microsite/</url>
+      <content>Architected and led a comprehensive Snowflake Cross-Cloud Disaster Recovery and High Availability strategy for Hyatt Global, implementing Failover Groups and Client Redirect to ensure sub-10 minute RTO and seamless application failover across DEV, UAT, and PROD environments. Simultaneously designed a secure Reltio-Snowflake integration using Key-Pair Authentication and PrivateLink for private data transit off the public internet.</content>
+      <launch_url>https://www.linkedin.com/in/hritikamk/</launch_url>
+      <thumb>/images/made/7d1e93a871917fe2/pa-img1_219_158auto_c1.jpg</thumb>
+      <img_thumb>/images/made/4fedefc85e7e190f/pa-img1_110_80_c1.jpg</img_thumb>
+      <img_medium>/images/made/4fedefc85e7e190f/pa-img1_528_383auto_c1.jpg</img_medium>
+      <img_large>/images/made/4fedefc85e7e190f/pa-img1_737_535auto_c1.jpg</img_large>
+    </project>
+    <project>
+      <title>Hyatt Global — Enterprise IAM &amp; RBAC</title>
+      <excerpt>2200+ property-level roles. Zero-trust. SAML SSO.</excerpt>
+      <url>/work-and-play/citak-rugs-inc/</url>
+      <content>Led the enterprise-wide Snowflake Identity and Access Management initiative, partnering with the Azure SSO team to architect a zero-trust framework from scratch, including complex role mapping and SAML-based authentication. Designed 2200+ property-level roles enabling secure, granular access to the semantic layer for Hyatt's global business units. Implemented a Data Mesh-inspired approach to property-level access ensuring scalable data sharing while maintaining strict HIPAA and GDPR compliance.</content>
+      <launch_url>https://www.linkedin.com/in/hritikamk/</launch_url>
+      <thumb>/images/made/7d1e93a871917fe2/citak-img1_219_158auto_c1.jpg</thumb>
+      <img_thumb>/images/made/4fedefc85e7e190f/citak-img1_110_80_c1.jpg</img_thumb>
+      <img_medium>/images/made/4fedefc85e7e190f/citak-img1_528_383auto_c1.jpg</img_medium>
+      <img_large>/images/made/4fedefc85e7e190f/citak-img1_737_535auto_c1.jpg</img_large>
+    </project>
+    <project>
+      <title>Streamlit Governance App</title>
+      <excerpt>29-feature real-time security monitoring. 2-week sprint.</excerpt>
+      <url>/work-and-play/creative-edge-parties/</url>
+      <content>Developed a custom Streamlit governance application featuring 29 distinct monitoring features, providing real-time visibility and automated alerting for privileged user activities and security compliance — delivered within a 2-week sprint at Hyatt Global. Also developed automated financial dashboards and KPI tracking for cloud spend, performing rate variance analysis and budget oversight across Snowflake environments.</content>
+      <launch_url>https://www.linkedin.com/in/hritikamk/</launch_url>
+      <thumb>/images/made/7d1e93a871917fe2/cep-img1_219_158auto_c1.jpg</thumb>
+      <img_thumb>/images/made/4fedefc85e7e190f/cep-img1_110_80_c1.jpg</img_thumb>
+      <img_medium>/images/made/4fedefc85e7e190f/cep-img1_528_383auto_c1.jpg</img_medium>
+      <img_large>/images/made/4fedefc85e7e190f/cep-img1_737_535auto_c1.jpg</img_large>
+    </project>
+  </work>
+</root>
