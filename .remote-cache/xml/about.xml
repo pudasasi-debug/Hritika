@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<about>
+	<head basewidth="1011" baseheight="878" largeminwidth="1300" maxwidth="600" minwidth="406" maxheight="878" minheight="439" prefix="/images/screens/about/head/1x/" retinaprefix="/images/screens/about/head/2x/">
+		<segment width="50%" hitwidth="50%" />
+		<segment width="50%" hitwidth="50%"/>
+		<segment width="50%" hitwidth="50%"/>
+		<segment width="50%" hitwidth="40%"/>
+		<segment width="100%" hitwidth="80%"/>
+		
+		<title src="title.png" />
+		<base src="base-large.png" largesrc="base-large.png" />
+		<overlay src="overlay1-large.png" largesrc="overlay1-large.png"/>
+		<overlay src="overlay2-large.png" largesrc="overlay2-large.png"/>
+		<overlay src="overlay3-large.png" largesrc="overlay3-large.png"/>
+		<overlay src="overlay4-large.png" largesrc="overlay4-large.png"/>
+		<overlay src="overlay5-large.png" largesrc="overlay5-large.png"/>
+	</head>
+	
+	<anatomy numsegments="5" maxwidth="1000" maxcolumns="3" sectionminsize="270" sectionmaxsize="350" sectionsize="350" prefix="/images/screens/about/anatomy/1x/" retinaprefix="/images/screens/about/anatomy/2x/">
+		
+		<section id="love">
+			<base src="love/heart.png" />
+			<overlay src="love/heart-overlay.png" />
+			<icons path="love/icons/" width="125" height="125" />
+		</section>
+		
+		<section id="core">
+			<base src="core/brain.png" />
+			<overlay src="core/brain-overlay.png" />
+		</section>
+		
+		<section id="work">
+			<base src="work/hand.png" />
+			<overlay src="work/hand-overlay.png" />
+			
+			<hands>
+				<hand src="work/hands/hand1.png" />
+				<hand src="work/hands/hand2.png" />
+				<hand src="work/hands/hand3.png" />
+				<hand src="work/hands/hand4.png" />
+				<hand src="work/hands/hand5.png" />
+			</hands>
+		</section>
+	</anatomy>
+</about>

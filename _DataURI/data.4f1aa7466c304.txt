@@ -1,0 +1,1 @@
+chrome-extension://cndibmoanboadcifjkjbdpjgfedanolh/content-scripts/all.css
