@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch Portfolio Website",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/server.py",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "justMyCode": false,
+      "serverReadyAction": {
+        "action": "openExternally",
+        "pattern": "Serving portfolio at (http://127\\.0\\.0\\.1:8000)",
+        "uriFormat": "%s"
+      }
+    }
+  ]
+}
