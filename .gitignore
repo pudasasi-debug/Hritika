@@ -1,0 +1,11 @@
+# Local runtime and verification artifacts
+server.pid
+.chrome-*/
+chrome-*.png
+graphify-out/
+
+# Accidental nested copy from local repo work
+www.adamhartwig.co.uk/Hritika/
+
+# Old remote submit endpoint cache; contact now uses mailto.
+.remote-cache/submit/

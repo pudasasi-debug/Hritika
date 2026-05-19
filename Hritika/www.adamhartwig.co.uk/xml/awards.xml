@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <awards>
+    <category>
+      <title>Snowflake</title>
+      <award>
+        <name>Snowflake SnowPro Core Certification</name>
+        <url>https://www.snowflake.com/certifications/</url>
+      </award>
+      <award>
+        <name>Snowflake SnowPro Advanced: Architect</name>
+        <url>https://www.snowflake.com/certifications/</url>
+      </award>
+      <icon1x>/images/made/f7b77d8eb4d7d34b/fwa_242_134.png</icon1x>
+      <icon2x>/images/made/f7b77d8eb4d7d34b/fwa_484_268.png</icon2x>
+    </category>
+    <category>
+      <title>AWS</title>
+      <award>
+        <name>AWS Certified Solutions Architect</name>
+        <url>https://aws.amazon.com/certification/</url>
+      </award>
+      <award>
+        <name>AWS Certified Data Analytics — Specialty</name>
+        <url>https://aws.amazon.com/certification/</url>
+      </award>
+      <icon1x>/images/made/f7b77d8eb4d7d34b/awwwards_117_133.png</icon1x>
+      <icon2x>/images/made/f7b77d8eb4d7d34b/awwwards_235_268.png</icon2x>
+    </category>
+    <category>
+      <title>University of North Carolina</title>
+      <award>
+        <name>M.S. Computer Science — GPA 3.6/4.0</name>
+        <url>https://www.uncc.edu/</url>
+      </award>
+      <award>
+        <name>B.E. Computer Engineering — University of Mumbai (9.2/10)</name>
+        <url>https://mu.ac.in/</url>
+      </award>
+      <icon1x>/images/made/f7b77d8eb4d7d34b/onepagelove_150_134.png</icon1x>
+      <icon2x>/images/made/f7b77d8eb4d7d34b/onepagelove_300_268.png</icon2x>
+    </category>
+    <category>
+      <title>Hyatt Global Recognition</title>
+      <award>
+        <name>Sub-10 Minute RTO — Cross-Cloud DR delivery for Hyatt enterprise</name>
+        <url>https://www.linkedin.com/in/hritikamk/</url>
+      </award>
+      <award>
+        <name>29-Feature Governance App — Delivered in 2-week sprint</name>
+        <url>https://www.linkedin.com/in/hritikamk/</url>
+      </award>
+      <icon1x>/images/made/f7b77d8eb4d7d34b/cssdesignawards_138_134.png</icon1x>
+      <icon2x>/images/made/f7b77d8eb4d7d34b/cssdesignawards_276_268.png</icon2x>
+    </category>
+  </awards>
+</root>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <about>
+    <core>
+      <title>Core info</title>
+      <description>I am a Snowflake &amp; Data Solutions Architect with 7+ years of experience designing and optimizing data warehouses and data lakes across on-premise, AWS, and Azure ecosystems. I believe that bridging the gap between complex data infrastructure and actionable business insight is essential in the modern enterprise.</description>
+      <linkedin>http://www.linkedin.com/in/hritikamk/</linkedin>
+    </core>
+    <work>
+      <item>
+        <title>Cloud Data Architecture</title>
+        <content>My work spans the full spectrum of cloud data architecture — from designing Snowflake multi-cluster warehouses and cross-region disaster recovery to implementing secure PrivateLink connectivity and zero-trust IAM frameworks.</content>
+      </item>
+      <item>
+        <title>Focus</title>
+        <content>My focus is delivering high-performance, cost-efficient data platforms aligning with business goals and regulatory requirements. I continuously explore GenAI integrations, emerging Snowflake capabilities, and modern ELT patterns like Data Mesh and Data Vault 2.0.</content>
+      </item>
+      <item>
+        <title>Innovation Projects</title>
+        <content>From an LLM-powered Streamlit chatbot querying blockchain data in natural language, to a custom 29-feature governance application for real-time Snowflake security monitoring — built in a 2-week sprint.</content>
+      </item>
+      <item>
+        <title>Architecture or Engineering?</title>
+        <content>Architecture and engineering are two sides of the same coin in the data world. I bridge strategy and execution — turning conceptual data roadmaps into optimized physical systems that actually run.</content>
+      </item>
+      <item>
+        <title>Above and Beyond</title>
+        <content>My work does not end with the ticket. Mentoring 10+ engineers, conducting R&amp;D on Snowflake Marketplace capabilities, and defining enterprise data strategies are all part of how I deliver value beyond the immediate ask.</content>
+      </item>
+    </work>
+  </about>
+</root>

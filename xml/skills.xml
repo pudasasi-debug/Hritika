@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <skills>
+    <skill>
+      <title>Snowflake</title>
+      <info>Expert in Snowflake architecture, implementation, and optimization — leveraging multi-cluster virtual warehouses, clustering keys, result caching, and resource monitors for high-performance, cost-efficient operations. Hands-on with Snowflake Openflow, Streams, Tasks, Time Travel, Fail-Safe, Materialized Views, and Data Sharing. Proficient across all licensing tiers: Standard, Enterprise, Business Critical, and VPS.</info>
+      <pos>43%</pos>
+      <size>24</size>
+      <orbit_time>7s</orbit_time>
+      <class>javascript</class>
+      <texture>/images/made/0c359e01d6d8ae1a/planet-texture-javascript_526_526_c1.jpg</texture>
+      <planet1x>/images/made/37ad884cdc8bc8cd/small-planet-javascript@2x_24_24_c1.png</planet1x>
+      <planet2x>/images/made/37ad884cdc8bc8cd/small-planet-javascript@2x_47_47_c1.png</planet2x>
+    </skill>
+    <skill>
+      <title>Cloud &amp; AWS</title>
+      <info>Expert in Snowflake-centric AWS architecture — designing secure, high-performance data platforms using AWS PrivateLink, S3 Storage Integrations, Kinesis, and AWS DMS. Also fluent in Azure SSO and cross-cloud replication strategies.</info>
+      <pos>61.1%</pos>
+      <size>27</size>
+      <orbit_time>10s</orbit_time>
+      <class>htmlcss</class>
+      <texture>/images/made/0c359e01d6d8ae1a/planet-texture_526_526_c1.gif</texture>
+      <planet1x>/images/made/37ad884cdc8bc8cd/small-planet-htmlcss@2x_27_27_c1.png</planet1x>
+      <planet2x>/images/made/37ad884cdc8bc8cd/small-planet-htmlcss@2x_54_54_c1.png</planet2x>
+    </skill>
+    <skill>
+      <title>Data Modeling</title>
+      <info>Deep expertise in conceptual, logical, and physical data modeling using Star and Snowflake schemas, Data Vault 2.0, Kimball/Inmon methodologies, 3NF, OLAP, OLTP, and ODS layer design. Tools include CA Erwin, ER Studio, and Visio.</info>
+      <pos>65.1%</pos>
+      <size>38</size>
+      <orbit_time>15s</orbit_time>
+      <class>illustration</class>
+      <texture>/images/made/0c359e01d6d8ae1a/planet-texture-illustration_526_526_c1.jpg</texture>
+      <planet1x>/images/made/37ad884cdc8bc8cd/small-planet@2x_38_38_c1.png</planet1x>
+      <planet2x>/images/made/37ad884cdc8bc8cd/small-planet@2x_76_76_c1.png</planet2x>
+    </skill>
+  </skills>
+</root>

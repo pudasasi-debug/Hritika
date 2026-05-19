@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lettering>
+	
+	<bullets prefix="/images/lettering/bullets/1x/" retinaprefix="/images/lettering/bullets/2x/" height="70" width="35" format=".png">
+		<b img="bullet-1" />
+		<b img="bullet-2" />
+		<b img="bullet-3" />
+		<b img="bullet-4" />
+		<b img="bullet-5" />
+		<b img="bullet-6" />
+	</bullets>
+	
+	<title prefix="/images/lettering/letters-title/1x/" retinaprefix="/images/lettering/letters-title/2x/" letterheight="320" spacewidth="30" format=".png">
+		<l img="0" width="61"><![CDATA[0]]></l>
+		<l img="1" width="39"><![CDATA[1]]></l>
+		<l img="2" width="59"><![CDATA[2]]></l>
+		<l img="3" width="59"><![CDATA[3]]></l>
+		<l img="4" width="63"><![CDATA[4]]></l>
+		<l img="5" width="60"><![CDATA[5]]></l>
+		<l img="6" width="59"><![CDATA[6]]></l>
+		<l img="7" width="53"><![CDATA[7]]></l>
+		<l img="8" width="62"><![CDATA[8]]></l>
+		<l img="9" width="59"><![CDATA[9]]></l>
+		
+		<l img="ampersand" width="75"><![CDATA[&]]></l>
+		<l img="apostrophe" width="23"><![CDATA[']]></l>
+		<l img="asterisk" width="53"><![CDATA[*]]></l>
+		<l img="at" width="103"><![CDATA[@]]></l>
+		<l img="bracket-close" width="34"><![CDATA[)]]></l>
+		<l img="bracket-open" width="36"><![CDATA[(]]></l>
+		<l img="colon" width="24"><![CDATA[:]]></l>
+		<l img="comma" width="22"><![CDATA[,]]></l>
+		<l img="exclamation" width="26"><![CDATA[!]]></l>
+		<l img="full-stop" width="23"><![CDATA[.]]></l>
+		<l img="percent" width="89"><![CDATA[%]]></l>
+		<l img="pound" width="57"><![CDATA[£]]></l>
+		<l img="question-mark" width="56"><![CDATA[?]]></l>
+		<l img="semicolon" width="56"><![CDATA[;]]></l>
+		<l img="speech-close" width="43"><![CDATA[}]]></l>
+		<l img="speech-open" width="43"><![CDATA[{]]></l>
+		
+		<l img="a" width="66"><![CDATA[a]]></l>
+		<l img="b" width="64"><![CDATA[b]]></l>
+		<l img="c" width="64"><![CDATA[c]]></l>
+		<l img="d" width="61"><![CDATA[d]]></l>
+		<l img="e" width="54"><![CDATA[e]]></l>
+		<l img="f" width="53"><![CDATA[f]]></l>
+		<l img="g" width="63"><![CDATA[g]]></l>
+		<l img="h" width="61"><![CDATA[h]]></l>
+		<l img="i" width="27"><![CDATA[i]]></l>
+		<l img="j" width="43"><![CDATA[j]]></l>
+		<l img="k" width="65"><![CDATA[k]]></l>
+		<l img="l" width="53"><![CDATA[l]]></l>
+		<l img="m" width="85"><![CDATA[m]]></l>
+		<l img="n" width="63"><![CDATA[n]]></l>
+		<l img="o" width="67"><![CDATA[o]]></l>
+		<l img="p" width="62"><![CDATA[p]]></l>
+		<l img="q" width="68"><![CDATA[q]]></l>
+		<l img="r" width="64"><![CDATA[r]]></l>
+		<l img="s" width="62"><![CDATA[s]]></l>
+		<l img="t" width="58"><![CDATA[t]]></l>
+		<l img="u" width="63"><![CDATA[u]]></l>
+		<l img="v" width="66"><![CDATA[v]]></l>
+		<l img="w" width="98"><![CDATA[w]]></l>
+		<l img="x" width="65"><![CDATA[x]]></l>
+		<l img="y" width="68"><![CDATA[y]]></l>
+		<l img="z" width="57"><![CDATA[z]]></l>
+	</title>
+	
+	<description prefix="/images/lettering/letters-description/1x/" retinaprefix="/images/lettering/letters-description/2x/" letterheight="71" spacewidth="9" format=".png">
+		<l img="0" width="14"><![CDATA[0]]></l>
+		<l img="1" width="9"><![CDATA[1]]></l>
+		<l img="2" width="13"><![CDATA[2]]></l>
+		<l img="3" width="13"><![CDATA[3]]></l>
+		<l img="4" width="14"><![CDATA[4]]></l>
+		<l img="5" width="13"><![CDATA[5]]></l>
+		<l img="6" width="13"><![CDATA[6]]></l>
+		<l img="7" width="12"><![CDATA[7]]></l>
+		<l img="8" width="14"><![CDATA[8]]></l>
+		<l img="9" width="13"><![CDATA[9]]></l>
+		
+		<l img="ampersand" width="17"><![CDATA[&]]></l>
+		<l img="apostrophe" width="5"><![CDATA[']]></l>
+		<l img="asterisk" width="12"><![CDATA[*]]></l>
+		<l img="at" width="23"><![CDATA[@]]></l>
+		<l img="bracket-close" width="8"><![CDATA[)]]></l>
+		<l img="bracket-open" width="8"><![CDATA[(]]></l>
+		<l img="colon" width="5"><![CDATA[:]]></l>
+		<l img="comma" width="5"><![CDATA[,]]></l>
+		<l img="exclamation" width="6"><![CDATA[!]]></l>
+		<l img="full-stop" width="5"><![CDATA[.]]></l>
+		<l img="percent" width="20"><![CDATA[%]]></l>
+		<l img="pound" width="13"><![CDATA[£]]></l>
+		<l img="question-mark" width="12"><![CDATA[?]]></l>
+		<l img="semicolon" width="6"><![CDATA[;]]></l>
+		<l img="speech-close" width="10"><![CDATA[}]]></l>
+		<l img="speech-open" width="10"><![CDATA[{]]></l>
+		
+		<l img="a" width="15"><![CDATA[a]]></l>
+		<l img="b" width="14"><![CDATA[b]]></l>
+		<l img="c" width="14"><![CDATA[c]]></l>
+		<l img="d" width="14"><![CDATA[d]]></l>
+		<l img="e" width="12"><![CDATA[e]]></l>
+		<l img="f" width="12"><![CDATA[f]]></l>
+		<l img="g" width="14"><![CDATA[g]]></l>
+		<l img="h" width="14"><![CDATA[h]]></l>
+		<l img="i" width="6"><![CDATA[i]]></l>
+		<l img="j" width="10"><![CDATA[j]]></l>
+		<l img="k" width="15"><![CDATA[k]]></l>
+		<l img="l" width="12"><![CDATA[l]]></l>
+		<l img="m" width="19"><![CDATA[m]]></l>
+		<l img="n" width="14"><![CDATA[n]]></l>
+		<l img="o" width="15"><![CDATA[o]]></l>
+		<l img="p" width="14"><![CDATA[p]]></l>
+		<l img="q" width="15"><![CDATA[q]]></l>
+		<l img="r" width="14"><![CDATA[r]]></l>
+		<l img="s" width="14"><![CDATA[s]]></l>
+		<l img="t" width="13"><![CDATA[t]]></l>
+		<l img="u" width="14"><![CDATA[u]]></l>
+		<l img="v" width="15"><![CDATA[v]]></l>
+		<l img="w" width="22"><![CDATA[w]]></l>
+		<l img="x" width="15"><![CDATA[x]]></l>
+		<l img="y" width="15"><![CDATA[y]]></l>
+		<l img="z" width="13"><![CDATA[z]]></l>
+	</description>
+</lettering>

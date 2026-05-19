@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <contact>
+    <title>Contact Me</title>
+    <description>If you'd like to make an enquiry, please feel free to get in touch, and I will respond as soon as possible.</description>
+    <email_label>If you prefer to contact me directly, send your Email to:</email_label>
+    <linkedin_url>https://www.linkedin.com/in/hritikamk/</linkedin_url>
+  </contact>
+</root>
