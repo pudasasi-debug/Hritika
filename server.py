@@ -6,7 +6,7 @@ from urllib.request import Request, urlopen
 
 
 WORKSPACE = Path(__file__).resolve().parent
-ROOT = Path(__file__).resolve().parent / "www.adamhartwig.co.uk"
+ROOT = Path(__file__).resolve().parent
 PORT = 8000
 APP_ROUTES = {"/", "/about", "/skills", "/work-and-play", "/awards", "/contact"}
 ROOT_RESOLVED = ROOT.resolve()
