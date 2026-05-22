@@ -1,16 +1,29 @@
 {
   "version": 2,
-  "routes": [
+  "rewrites": [
     {
-      "handle": "filesystem"
+      "source": "/about",
+      "destination": "/index.html"
     },
     {
-      "src": "/(about|skills|work-and-play|awards|contact)(/.*)?",
-      "dest": "/index.html"
+      "source": "/skills",
+      "destination": "/index.html"
     },
     {
-      "src": "/.*",
-      "dest": "/index.html"
+      "source": "/work-and-play",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/work-and-play/:path*",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/awards",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/contact",
+      "destination": "/index.html"
     }
   ]
 }
